@@ -1,6 +1,8 @@
 ENV["RAILS_ENV"] = "test"
 require File.expand_path('../../config/environment', __FILE__)
 
+# This is where unit tests will be written
+
 require "minitest/autorun"
 require "minitest/rails"
 
