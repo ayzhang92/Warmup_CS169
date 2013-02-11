@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f242bd78-3248-43a5-a71f-e2c700d1ca80" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f242bd78-3248-43a5-a71f-e2c700d1ca80" name="Default" comment="" />
     <ignored path="warmup.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Gemfile" changelist="f242bd78-3248-43a5-a71f-e2c700d1ca80" time="1360531481366" ignored="false" />
