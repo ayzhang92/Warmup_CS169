@@ -5,6 +5,6 @@ class TestapiController < ApplicationController
   end
 
   def unitTests
-    # do stuff
+    render :json => {:totalTests => 10, :nrFailed => 0, :output => 'stuff'}
   end
 end
